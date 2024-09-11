@@ -1,0 +1,17 @@
+﻿<Dogs>
+	<Dog>
+		<Name>Sahrik</Name>
+		<Breed>German Shepherd</Breed>
+		<Age>5</Age>
+	</Dog>
+	<Dog>
+		<Name>Palma</Name>
+		<Breed>Bulldog</Breed>
+		<Age>9</Age>
+	</Dog>
+	<Dog>
+		<Name>Larry</Name>
+		<Breed>Labrador</Breed>
+		<Age>1</Age>
+	</Dog>
+</Dogs>
